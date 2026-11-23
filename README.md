@@ -1,16 +1,27 @@
-## Hi there 👋
+<p>
+  <img src= "Github Banner.gif" width = "100%">
+</p>
 
-<!--
-**kenny-adesina/kenny-adesina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<b>“The best way to predict the future is to invent it.”</b> - <i>Alan Kay</i>
+</p>
+
+<br>
+
+<p>
+  <h1>Currently working on...</h1>
+  <ul>
+    <li>⚽ <a href=https://github.com/kenny-adesina/MatchSimulator target="_blank">Match Simulator</a> in Java</li>
+    <br>
+    <li>🌍 <a href=https://github.com/kenny-adesina/commercial-revolution target="_blank">Commercial Revolution [European History]</a> in HTML, CSS & Javascript</li>
+    <br>
+    <li>...and more!</li>
+    
+  </ul>
+</p>
+
+
+
+
