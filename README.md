@@ -1,5 +1,5 @@
 <p>
-  <a href="https://kenny-adesina.github.io/portfolio/" target="_blank" title="Click to navigate to my portfolio!"><img src= "Github Banner.gif" width = "100%"></a>
+  <a href="https://kenny-adesina.github.io/portfolio/" title="Click to navigate to my portfolio!"><img src= "Github Banner.gif" width = "100%"></a>
 </p>
 
 
