@@ -13,11 +13,13 @@
 <p>
   <h1>Currently working on...</h1>
   <ul>
-    <li>⚽ <a href=https://github.com/kenny-adesina/MatchSimulator target="_blank">Match Simulator</a> in Java</li>
+    <li>⚽ <a href=https://github.com/kenny-adesina/MatchSimulator target="_blank">Match Simulator</a> in Java (40%) 🔴 </li>
     <br>
-    <li>🌍 <a href=https://github.com/kenny-adesina/commercial-revolution target="_blank">Commercial Revolution [European History]</a> in HTML, CSS & Javascript</li>
+    <li>🌍 <a href=https://github.com/kenny-adesina/commercial-revolution target="_blank">Commercial Revolution [European History]</a> in HTML, CSS & Javascript (15%) 🔴</li>
     <br>
-    <li>...and more!</li>
+    <li>🧠 Research Prototype & Website (10%) 🔴</li>
+    <br>
+    <li>... and more!</li>
     
   </ul>
 </p>
